@@ -1,0 +1,14 @@
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi3/TrenLopB3/bin/Debug/net8.0/TrenLopB3
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi3/TrenLopB3/bin/Debug/net8.0/TrenLopB3.deps.json
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi3/TrenLopB3/bin/Debug/net8.0/TrenLopB3.runtimeconfig.json
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi3/TrenLopB3/bin/Debug/net8.0/TrenLopB3.dll
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi3/TrenLopB3/bin/Debug/net8.0/TrenLopB3.pdb
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi3/TrenLopB3/obj/Debug/net8.0/TrenLopB3.GeneratedMSBuildEditorConfig.editorconfig
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi3/TrenLopB3/obj/Debug/net8.0/TrenLopB3.AssemblyInfoInputs.cache
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi3/TrenLopB3/obj/Debug/net8.0/TrenLopB3.AssemblyInfo.cs
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi3/TrenLopB3/obj/Debug/net8.0/TrenLopB3.csproj.CoreCompileInputs.cache
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi3/TrenLopB3/obj/Debug/net8.0/TrenLopB3.dll
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi3/TrenLopB3/obj/Debug/net8.0/refint/TrenLopB3.dll
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi3/TrenLopB3/obj/Debug/net8.0/TrenLopB3.pdb
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi3/TrenLopB3/obj/Debug/net8.0/TrenLopB3.genruntimeconfig.cache
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi3/TrenLopB3/obj/Debug/net8.0/ref/TrenLopB3.dll

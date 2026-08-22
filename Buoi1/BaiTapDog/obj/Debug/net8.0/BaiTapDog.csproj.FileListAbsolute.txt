@@ -1,0 +1,14 @@
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapDog/bin/Debug/net8.0/BaiTapDog
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapDog/bin/Debug/net8.0/BaiTapDog.deps.json
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapDog/bin/Debug/net8.0/BaiTapDog.runtimeconfig.json
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapDog/bin/Debug/net8.0/BaiTapDog.dll
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapDog/bin/Debug/net8.0/BaiTapDog.pdb
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapDog/obj/Debug/net8.0/BaiTapDog.GeneratedMSBuildEditorConfig.editorconfig
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapDog/obj/Debug/net8.0/BaiTapDog.AssemblyInfoInputs.cache
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapDog/obj/Debug/net8.0/BaiTapDog.AssemblyInfo.cs
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapDog/obj/Debug/net8.0/BaiTapDog.csproj.CoreCompileInputs.cache
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapDog/obj/Debug/net8.0/BaiTapDog.dll
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapDog/obj/Debug/net8.0/refint/BaiTapDog.dll
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapDog/obj/Debug/net8.0/BaiTapDog.pdb
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapDog/obj/Debug/net8.0/BaiTapDog.genruntimeconfig.cache
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapDog/obj/Debug/net8.0/ref/BaiTapDog.dll

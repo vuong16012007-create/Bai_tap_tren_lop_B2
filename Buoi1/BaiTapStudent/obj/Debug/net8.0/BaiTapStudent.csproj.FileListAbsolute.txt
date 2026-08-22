@@ -1,0 +1,14 @@
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapStudent/bin/Debug/net8.0/BaiTapStudent
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapStudent/bin/Debug/net8.0/BaiTapStudent.deps.json
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapStudent/bin/Debug/net8.0/BaiTapStudent.runtimeconfig.json
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapStudent/bin/Debug/net8.0/BaiTapStudent.dll
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapStudent/bin/Debug/net8.0/BaiTapStudent.pdb
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapStudent/obj/Debug/net8.0/BaiTapStudent.GeneratedMSBuildEditorConfig.editorconfig
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapStudent/obj/Debug/net8.0/BaiTapStudent.AssemblyInfoInputs.cache
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapStudent/obj/Debug/net8.0/BaiTapStudent.AssemblyInfo.cs
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapStudent/obj/Debug/net8.0/BaiTapStudent.csproj.CoreCompileInputs.cache
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapStudent/obj/Debug/net8.0/BaiTapStudent.dll
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapStudent/obj/Debug/net8.0/refint/BaiTapStudent.dll
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapStudent/obj/Debug/net8.0/BaiTapStudent.pdb
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapStudent/obj/Debug/net8.0/BaiTapStudent.genruntimeconfig.cache
+/home/quangnhatbaovuong/Documents/Bai_tap_LTHDT/Buoi1/BaiTapStudent/obj/Debug/net8.0/ref/BaiTapStudent.dll
